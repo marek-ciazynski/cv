@@ -1,0 +1,25 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --no-css-inject .",
+    "generate-pdf": "electron-pdf `pwd`/index.html index.pdf",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marek-ciazynski/cv.git"
+  },
+  "author": "Marek Ciążyński",
+  "license": "ISC",
+  "homepage": "https://github.com/marek-ciazynski/cv#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "electron-pdf": "^25.0.0",
+    "live-server": "^1.2.2"
+  }
+}
