@@ -15,9 +15,6 @@
   "author": "Marek Ciążyński",
   "license": "ISC",
   "homepage": "https://github.com/marek-ciazynski/cv#readme",
-  "dependencies": {
-    "normalize.css": "^8.0.1"
-  },
   "devDependencies": {
     "electron-pdf": "^25.0.0",
     "live-server": "^1.2.2"
