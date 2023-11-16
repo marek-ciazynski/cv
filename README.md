@@ -7,7 +7,7 @@
 Curriculum Vitae made in plain HTML and CSS. Credits to the author of [paper-css](https://www.npmjs.com/package/paper-css) on which print styles are based. PDF document is generated using [electron-pdf](https://www.npmjs.com/package/electron-pdf).
 
 ### Preview
-📘 [HTML document](https://rawcdn.githack.com/marek-ciazynski/cv/a98f4a02b46c74f1aa5afb4bb2a6b98f1489d0ee/index.html)  
+📘 [HTML document](https://rawcdn.githack.com/marek-ciazynski/cv/f58eb64bd06829f4d3fa8c2a5d6c309e71e3615a/index.html)  
 📕 [PDF document](./index.pdf)  
 
 ### Scripts
